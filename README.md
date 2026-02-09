@@ -4,6 +4,10 @@
 This project is an interactive Mobile Sales Performance Dashboard built using Power BI to analyze and visualize mobile phone sales data across different dimensions such as time, location, brand, model, and payment method.
 The dashboard enables stakeholders to gain actionable insights and make data-driven business decisions.
 
+### Daasboard Preview
+<img width="1350" height="742" alt="MS Dashboard" src="https://github.com/user-attachments/assets/cf49689a-be32-4a06-ad89-37a0c831db4c" />
+
+
 ### 🎯 Objective
 
 To track overall mobile sales performance
